@@ -71,6 +71,4 @@ group :test do
   gem "webdrivers"
 end
 
-gem 'sidekiq', '6.5.8'
-gem 'sidekiq-pro', '5.5.5'
-gem 'sidekiq-ent', '2.5.3'
+gem 'sidekiq'
